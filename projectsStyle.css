@@ -22,6 +22,7 @@ img {
 	 font-weight: bold;
 	 padding-top:5px ;
 	 padding-bottom:5px ;
+	 color: white;
 	/* border: 1px solid rgb(0, 179, 255); */
 	/* background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); */
 
@@ -53,6 +54,7 @@ img {
 #projects {
 	display:grid;
 	place-items:center;
+	grid-template-columns:max-content mauto;
 	h4 {
 		margin-bottom:-10px;
 		padding:20px;

@@ -20,6 +20,7 @@ body {
 
 p{
 	margin-top: auto;
+	
 }
 
 i{
@@ -46,7 +47,7 @@ i{
 
 
 
-#emphasis {
+.emphasis {
 	color: #aae6ef;
 	font-family:Georgia, serif;
 		font-size: medium;
